@@ -1,5 +1,7 @@
 # Frontend Mentor - Time tracking dashboard
 
+Site Deployed at : https://front-end-mentor-time-tracking-dashboard-pt6jvevxa.vercel.app/
+
 ![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
